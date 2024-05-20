@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
 
-assert(1 == 2)
+result = 2 ==2
+assert result
+print(result)
